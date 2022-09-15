@@ -1,5 +1,5 @@
-# API Yatube
-API для сайта yatube
+# API для социальной сети Yatube
+Реализовал аутентификацию по JWT токену, работу через api с постами, группами, комментариями, подписками и токенами
 
 Доступны для работы через API:
 - посты
@@ -11,10 +11,10 @@ API для сайта yatube
 ## Как запустить проект:
 Клонировать репозиторий и перейти в него в командной строке:
 ```
-git clone https://github.com/enjoywg/api_final_yatube
+git clone https://github.com/enjoywg/api_yatube_final
 ```
 ```
-cd api_final_yatube
+cd api_yatube_final
 ```
 
 Cоздать и активировать виртуальное окружение:
